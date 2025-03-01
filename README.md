@@ -1,6 +1,6 @@
 # Yearly Budget Tracking
 i have created a project about yearly budget tracking. it contains:
-##waterfall chart: - Shows how values increase/decrease over time.in my project i have choosen for the same reason to show the increase and decrease trend.
+<h1>waterfall chart</h1>h1>: - Shows how values increase/decrease over time.in my project i have choosen for the same reason to show the increase and decrease trend.
 ##funnel chart:Shows drop-off across process stages. 
 Used in: - Customer Journey
 ##piechart: To show the relative proportion of different categories in a dataset.
