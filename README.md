@@ -9,10 +9,10 @@ When exact percentage comparisons are important.
 When labels and values are easy to distinguish.
 
 
-<h1>donot chart</h1>:When you want a modern, cleaner look with a center space.
+<h1>Donot chart</h1>:When you want a modern, cleaner look with a center space.
 To show proportions while allowing space in the center for extra labels or text.
 When comparing multiple datasets (e.g., side-by-side donut charts).
-For dashboard visualizations (less cluttered than pie charts).
+
 
 ![image alt](https://github.com/binitabudhathoki/Excel-Projects/blob/30b7f02b200a36676ffca3ec0a51be90b21e3315/chart.png)
 
