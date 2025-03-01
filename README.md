@@ -1,6 +1,5 @@
-# "yearly budget tracking"
-hello 
-my project is about yearly budget tracking. it contains:
+# yearly budget tracking
+i have created a project about yearly budget tracking. it contains:
 waterfall chart: - Shows how values increase/decrease over time
 Used in: - Budget Tracking
 funnel chart:Shows drop-off across process stages
